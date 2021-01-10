@@ -12,11 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Deepak K # author name
   bio: >- # tell to the world
-    👋 Hi, I'm Deepak.
-    
-    Here, I take raw notes on blogging, marketing, business, technology and more.
-    
-    <a href="https://deepakness.com/" target="_blank">Know more</a> about me.
+    👋 Hi, I'm Deepak. Here, I take raw notes on blogging, marketing, business, technology and more. <a href="https://deepakness.com/" target="_blank">Know more</a> about me.
 
   github: deepakness # github username
   twitter: DeepakNesss # twitter username
